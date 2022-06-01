@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+cookieAI/src/coookieAI.egg-info/PKG-INFO
+cookieAI/src/coookieAI.egg-info/SOURCES.txt
+cookieAI/src/coookieAI.egg-info/dependency_links.txt
+cookieAI/src/coookieAI.egg-info/top_level.txt
